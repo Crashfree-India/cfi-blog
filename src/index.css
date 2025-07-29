@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+   
+.btn {
+  @apply px-2 py-1 border border-gray-300 rounded text-sm hover:bg-gray-100;
+}
+.blockquote-success {
+  @apply border-l-4 border-green-500 bg-green-50 text-green-800 p-4 rounded;
+}
