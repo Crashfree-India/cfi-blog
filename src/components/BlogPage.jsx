@@ -12,7 +12,7 @@ import CodeBlockLowlight from '@tiptap/extension-code-block-lowlight';
 import Blockquote from '@tiptap/extension-blockquote';
 import { common, createLowlight } from 'lowlight';
 import slugify from 'slugify';
-import { Button } from '@/components/ui/button';
+import { Button } from '@/components/ui/Button';
 import LivePreview from './LivePreview';
 import {
   DropdownMenu,
